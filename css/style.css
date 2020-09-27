@@ -1,0 +1,16 @@
+.progress {
+
+    width: 60%;
+    height: 20px;
+    margin: 0 0 20px 0;
+    background: #fff;
+
+  }
+
+
+.btn {
+	margin: 20px;
+	display: flex;
+	justify-content: center;
+
+}
